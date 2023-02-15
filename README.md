@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @brookestore
 - 👀 I’m interested in ... beginner level programming
-- 🌱 I’m currently learning ... Ruby
-- 💞️ I’m looking to collaborate on ... Ruby
+- 🌱 I’m currently learning ... Javascript
 - 📫 How to reach me ...brookeaparsley@gmail.com
 
 <!---
